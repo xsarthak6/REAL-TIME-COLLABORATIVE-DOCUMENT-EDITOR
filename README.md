@@ -23,3 +23,7 @@ The editor/platform used for developing this task was Visual Studio Code. VS Cod
 This task can be applicable in many real-world areas. It can be used in education platforms where students and teachers edit notes together during online classes. It is useful in office environments where teams prepare reports, project plans, and documents collaboratively. It can also be used by software developers for sharing code snippets or documentation in real time. Platforms like Google Docs, Microsoft Word Online, and Notion use similar collaboration concepts. Additional features such as login systems, version history, file saving, comments, and formatting tools can be added in future versions.
 
 Overall, this task is an excellent example of a real-time multi-user web application. It helps learners understand live synchronization, client-server communication, teamwork-based software systems, and full-stack development. It is highly useful for both academic learning and professional collaboration purposes.
+
+#OUTPUT
+
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/36debeb2-cc9d-43ed-9020-fbbd69cfb896" />
